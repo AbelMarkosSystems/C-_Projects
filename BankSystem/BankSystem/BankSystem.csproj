@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6171C04-D496-4A0C-BD95-616FE06F952C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>BankSystem</RootNamespace>
+    <AssemblyName>BankSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>BankSystem.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Account.cs" />
+    <Compile Include="AccountProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AccountProfile.Designer.cs">
+      <DependentUpon>AccountProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BankSystems.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BankSystems.Designer.cs">
+      <DependentUpon>BankSystems.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cheack_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cheack_Account.Designer.cs">
+      <DependentUpon>Cheack_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheakAccountsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheakAccountsForm.Designer.cs">
+      <DependentUpon>CheakAccountsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Creat_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Creat_Account.Designer.cs">
+      <DependentUpon>Creat_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deposit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deposit.Designer.cs">
+      <DependentUpon>Deposit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Withdraw_Amount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Withdraw_Amount.Designer.cs">
+      <DependentUpon>Withdraw_Amount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIn_Page.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn_Page.Designer.cs">
+      <DependentUpon>LogIn_Page.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Deposit_Amounts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Deposit_Amounts.Designer.cs">
+      <DependentUpon>Deposit_Amounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receipt.Designer.cs">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="signupuser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="signupuser.Designer.cs">
+      <DependentUpon>signupuser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transferUserAmount.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transferUserAmount.Designer.cs">
+      <DependentUpon>transferUserAmount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer_Amount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer_Amount.Designer.cs">
+      <DependentUpon>Transfer_Amount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Close_Account.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Close_Account.Designer.cs">
+      <DependentUpon>Close_Account.cs</DependentUpon>
+    </Compile>
+    <Compile Include="US_UpdateAccounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="US_UpdateAccounts.Designer.cs">
+      <DependentUpon>US_UpdateAccounts.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AccountProfile.resx">
+      <DependentUpon>AccountProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BankSystems.resx">
+      <DependentUpon>BankSystems.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cheack_Account.resx">
+      <DependentUpon>Cheack_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheakAccountsForm.resx">
+      <DependentUpon>CheakAccountsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Creat_Account.resx">
+      <DependentUpon>Creat_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deposit.resx">
+      <DependentUpon>Deposit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Withdraw_Amount.resx">
+      <DependentUpon>Withdraw_Amount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIn_Page.resx">
+      <DependentUpon>LogIn_Page.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Deposit_Amounts.resx">
+      <DependentUpon>Deposit_Amounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Receipt.resx">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="signupuser.resx">
+      <DependentUpon>signupuser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transferUserAmount.resx">
+      <DependentUpon>transferUserAmount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer_Amount.resx">
+      <DependentUpon>Transfer_Amount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Close_Account.resx">
+      <DependentUpon>Close_Account.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="US_UpdateAccounts.resx">
+      <DependentUpon>US_UpdateAccounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

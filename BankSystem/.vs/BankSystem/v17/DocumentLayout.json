@@ -1,0 +1,622 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|c:\\users\\abel\\desktop\\one\\banksystem\\banksystem\\transferuseramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\transferuseramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\transferuseramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\transferuseramount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\signupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\signupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\transfer_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\transfer_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\signupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\signupuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\close_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\close_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\close_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\close_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\signupuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\signupuser.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\withdraw_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\withdraw_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\banksystems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\banksystems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\banksystems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\banksystems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\transfer_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\transfer_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\cheakaccountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\cheakaccountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\us_updateaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\us_updateaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\us_updateaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\us_updateaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\creat_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\creat_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\creat_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\creat_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\withdraw_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\withdraw_amount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\login_page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\deposit_amounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\deposit_amounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\cheakaccountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\cheakaccountsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\deposit_amounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\deposit_amounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\banksystems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\banksystems.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\accountprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\deposit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\cheack_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\cheack_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|C:\\Users\\abel\\Desktop\\one\\BankSystem\\banksystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E6171C04-D496-4A0C-BD95-616FE06F952C}|BankSystem\\BankSystem.csproj|solutionrelative:banksystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogIn_Page.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\LogIn_Page.cs",
+              "RelativeDocumentMoniker": "BankSystem\\LogIn_Page.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\LogIn_Page.cs [Design]",
+              "RelativeToolTip": "BankSystem\\LogIn_Page.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T11:37:55.562Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Login.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Login.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:23:09.277Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Receipt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Receipt.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Receipt.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Receipt.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Receipt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:55:26.118Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signupuser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\signupuser.cs",
+              "RelativeDocumentMoniker": "BankSystem\\signupuser.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\signupuser.cs [Design]",
+              "RelativeToolTip": "BankSystem\\signupuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:15:27.566Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "transferUserAmount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\transferUserAmount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\transferUserAmount.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\transferUserAmount.cs [Design]",
+              "RelativeToolTip": "BankSystem\\transferUserAmount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:32:02.732Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "transferUserAmount.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\transferUserAmount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\transferUserAmount.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\transferUserAmount.cs",
+              "RelativeToolTip": "BankSystem\\transferUserAmount.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAD4v5YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:32:05.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountProfile.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "BankSystem\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\AccountProfile.cs",
+              "RelativeToolTip": "BankSystem\\AccountProfile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwGoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:20:48.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transfer_Amount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Transfer_Amount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Transfer_Amount.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Transfer_Amount.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Transfer_Amount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T11:59:56.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Login.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Login.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Login.cs",
+              "RelativeToolTip": "BankSystem\\Login.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAiwFYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:23:11.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "signupuser.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\signupuser.cs",
+              "RelativeDocumentMoniker": "BankSystem\\signupuser.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\signupuser.cs",
+              "RelativeToolTip": "BankSystem\\signupuser.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwG0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T17:22:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "BankSystem\\SignUp.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\SignUp.cs",
+              "RelativeToolTip": "BankSystem\\SignUp.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:39:08.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Receipt.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Receipt.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Receipt.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Receipt.cs",
+              "RelativeToolTip": "BankSystem\\Receipt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T19:31:46.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "BankSystem\\SignUp.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\SignUp.cs [Design]",
+              "RelativeToolTip": "BankSystem\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T12:55:26.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Close_Account.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Close_Account.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Close_Account.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Close_Account.cs",
+              "RelativeToolTip": "BankSystem\\Close_Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:41:29.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Close_Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Close_Account.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Close_Account.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Close_Account.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Close_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:25:03.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "signupuser.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\signupuser.Designer.cs",
+              "RelativeDocumentMoniker": "BankSystem\\signupuser.Designer.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\signupuser.Designer.cs",
+              "RelativeToolTip": "BankSystem\\signupuser.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T16:57:33.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BankSystems.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\BankSystems.cs",
+              "RelativeDocumentMoniker": "BankSystem\\BankSystems.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\BankSystems.cs",
+              "RelativeToolTip": "BankSystem\\BankSystems.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwFcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:06:13.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BankSystems.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\BankSystems.cs",
+              "RelativeDocumentMoniker": "BankSystem\\BankSystems.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\BankSystems.cs [Design]",
+              "RelativeToolTip": "BankSystem\\BankSystems.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T12:07:21.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\UserControl1.cs",
+              "RelativeDocumentMoniker": "BankSystem\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\UserControl1.cs [Design]",
+              "RelativeToolTip": "BankSystem\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:24:57.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Withdraw_Amount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Withdraw_Amount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Withdraw_Amount.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Withdraw_Amount.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Withdraw_Amount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:06:31.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Transfer_Amount.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Transfer_Amount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Transfer_Amount.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Transfer_Amount.cs",
+              "RelativeToolTip": "BankSystem\\Transfer_Amount.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAQwIUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T12:00:03.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CheakAccountsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\CheakAccountsForm.cs",
+              "RelativeDocumentMoniker": "BankSystem\\CheakAccountsForm.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\CheakAccountsForm.cs [Design]",
+              "RelativeToolTip": "BankSystem\\CheakAccountsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:25:46.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "US_UpdateAccounts.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\US_UpdateAccounts.cs",
+              "RelativeDocumentMoniker": "BankSystem\\US_UpdateAccounts.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\US_UpdateAccounts.cs",
+              "RelativeToolTip": "BankSystem\\US_UpdateAccounts.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T20:04:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "US_UpdateAccounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\US_UpdateAccounts.cs",
+              "RelativeDocumentMoniker": "BankSystem\\US_UpdateAccounts.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\US_UpdateAccounts.cs [Design]",
+              "RelativeToolTip": "BankSystem\\US_UpdateAccounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T19:51:24.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Creat_Account.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Creat_Account.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Creat_Account.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Creat_Account.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Creat_Account.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:42:32.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Creat_Account.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Creat_Account.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Creat_Account.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Creat_Account.cs",
+              "RelativeToolTip": "BankSystem\\Creat_Account.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAiwF4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T19:59:43.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Withdraw_Amount.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Withdraw_Amount.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Withdraw_Amount.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Withdraw_Amount.cs",
+              "RelativeToolTip": "BankSystem\\Withdraw_Amount.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAqwGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:12:14.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LogIn_Page.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\LogIn_Page.cs",
+              "RelativeDocumentMoniker": "BankSystem\\LogIn_Page.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\LogIn_Page.cs",
+              "RelativeToolTip": "BankSystem\\LogIn_Page.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwCIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:32:28.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Deposit_Amounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit_Amounts.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Deposit_Amounts.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit_Amounts.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Deposit_Amounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:05:29.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CheakAccountsForm.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\CheakAccountsForm.cs",
+              "RelativeDocumentMoniker": "BankSystem\\CheakAccountsForm.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\CheakAccountsForm.cs",
+              "RelativeToolTip": "BankSystem\\CheakAccountsForm.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvxQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T18:25:53.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Deposit_Amounts.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit_Amounts.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Deposit_Amounts.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit_Amounts.cs",
+              "RelativeToolTip": "BankSystem\\Deposit_Amounts.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAqwEIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:13:30.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Deposit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Deposit.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit.cs [Design]",
+              "RelativeToolTip": "BankSystem\\Deposit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:06:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BankSystems.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\BankSystems.Designer.cs",
+              "RelativeDocumentMoniker": "BankSystem\\BankSystems.Designer.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\BankSystems.Designer.cs",
+              "RelativeToolTip": "BankSystem\\BankSystems.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:50:54.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AccountProfile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\AccountProfile.cs",
+              "RelativeDocumentMoniker": "BankSystem\\AccountProfile.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\AccountProfile.cs [Design]",
+              "RelativeToolTip": "BankSystem\\AccountProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T10:33:43.544Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "BankSystem\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:51:03.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Deposit.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Deposit.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Deposit.cs",
+              "RelativeToolTip": "BankSystem\\Deposit.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:50:07.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Cheack_Account.cs",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Cheack_Account.cs",
+              "RelativeDocumentMoniker": "BankSystem\\Cheack_Account.cs",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\Cheack_Account.cs",
+              "RelativeToolTip": "BankSystem\\Cheack_Account.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAQwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T11:30:07.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\App.config",
+              "RelativeDocumentMoniker": "BankSystem\\App.config",
+              "ToolTip": "C:\\Users\\abel\\Desktop\\one\\BankSystem\\BankSystem\\App.config",
+              "RelativeToolTip": "BankSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-08T13:33:31.379Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

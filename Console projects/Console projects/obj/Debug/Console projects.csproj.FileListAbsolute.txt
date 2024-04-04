@@ -1,0 +1,7 @@
+C:\Users\abel\Desktop\one\Console projects\Console projects\bin\Debug\Console projects.exe.config
+C:\Users\abel\Desktop\one\Console projects\Console projects\bin\Debug\Console projects.exe
+C:\Users\abel\Desktop\one\Console projects\Console projects\bin\Debug\Console projects.pdb
+C:\Users\abel\Desktop\one\Console projects\Console projects\obj\Debug\Console projects.csproj.AssemblyReference.cache
+C:\Users\abel\Desktop\one\Console projects\Console projects\obj\Debug\Console projects.csproj.CoreCompileInputs.cache
+C:\Users\abel\Desktop\one\Console projects\Console projects\obj\Debug\Console projects.exe
+C:\Users\abel\Desktop\one\Console projects\Console projects\obj\Debug\Console projects.pdb
